@@ -1,0 +1,21 @@
+
+
+.filters{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+}
+
+.filters{
+    position: relative;
+    right: 5rem;
+}
+
+.icono{
+    color: #1561f0;
+}
+
+.scroll{
+    overflow: scroll;
+    height: 17rem;
+}

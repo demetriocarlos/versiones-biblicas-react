@@ -1,0 +1,36 @@
+
+.grilla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*border: solid ;*/
+    margin: 4px;
+    /*overflow: scroll;
+    height: 23rem;*/
+    
+}
+
+.scroll{
+    height: 24.5rem;
+}
+
+.passages{
+    width: 450px;
+     
+    text-align: center;
+    padding: 0.3rem;
+     
+}
+
+.parrafo{
+    font-size:1.2rem ;
+    color: #86868B;
+}
+
+@media (max-width: 560px){
+    .passages{
+        width: 95%;
+        height: auto;
+         
+    }
+}

@@ -1,0 +1,301 @@
+
+[    
+    {
+        "id":"0",
+        "idioma":"Español"
+    },
+    {
+        "id":"1",
+        "version":"reina valera",
+        "bibleId":"592420522e16049f-01",
+        "ruta":"/"
+    },
+    {
+        "id":"2",
+        "version":"Spanish Bible, Palabla de Dios para ti",
+        "bibleId":"48acedcf8595c754-01",
+        "ruta":"/spanish"
+    },
+    {
+        "id":"3",
+        "version":"NT + PP, Palabla de Dios para ti",
+        "bibleId":"48acedcf8595c754-02",
+        "ruta":"/nt+pp"
+    },
+    {
+        "id":"4",
+        "version":" La Santa Biblia en Español Sencillo",
+        "bibleId":"b32b9d1b64b4ef29-01",
+        "ruta":"/santa"
+    },
+    {
+        "id":"5",
+        "version":"El Nuevo Testamento en Español, Versión Bíblica Gratuita",
+        "bibleId":"482ddd53705278cc-01",
+        "ruta":"/nuevo"
+    },
+    {
+        "id":"6",
+        "version":"Versión Biblia Libre ",
+        "bibleId":"482ddd53705278cc-02",
+        "ruta":"/libre"
+    },
+    {
+        "id":"7",
+        "idioma":"English"
+    },
+    {    
+        "id":"8",
+        "version":"American Standard Version (Byzantine Text with Apocrypha)",
+        "bibleId":"685d1470fe4d5c3b-01",
+        "ruta":"/aa"
+    },
+    {    
+        "id":"9",
+        "version":"Berean Standard Bible",
+        "bibleId":"bba9f40183526463-01",
+        "ruta":"/ab"
+    },
+    {    
+        "id":"10",
+        "version":"Brenton English Septuagint (Updated Spelling and Formatting)",
+        "bibleId":"6bab4d6c61b31b80-01",
+        "ruta":"/ac"
+    },
+    {    
+        "id":"11",
+        "version":"Brenton English translation of the Septuagint ",
+        "bibleId":"65bfdebd704a8324-01",
+        "ruta":"/ad"
+    },
+    {    
+        "id":"12",
+        "version":"Cambridge Paragraph Bible of the KJV",
+        "bibleId":"55212e3cf5d04d49-01",
+        "ruta":"/ae"
+    },
+    {
+        "id":"13",
+        "idioma":"Sánscrito"
+    },
+    {    
+        "id":"14",
+        "version":"Biblia sánscrita (NT) en escritura asamés (সত্যৱেদঃ। )",
+        "bibleId":"bb3df4b7c8587c77-01",
+        "ruta":"/ba"
+    },
+    {    
+        "id":"15",
+        "version":"Biblia en sánscrito (NT) en escritura bengalí",
+        "bibleId":"8d1ad2c921d811c3-01",
+        "ruta":"/bb"
+    },
+    {    
+        "id":"16",
+        "version":"Biblia sánscrita (NT) en escritura birmana (သတျဝေဒး၊) -",
+        "bibleId":"9449d4ad98193779-01",
+        "ruta":"/bc"
+    },
+    {    
+        "id":"17",
+        "version":"Biblia en Sánscrito (NT) en Escritura de Colonia (satyavEdaH|)",
+        "bibleId":"33b6449cacf22773-01",
+        "ruta":"/bd"
+    },
+    {    
+        "id":"18",
+        "version":"Biblia sánscrita (NT) en escritura gujarati (સત્યવેદઃ। ) ",
+        "bibleId":"e9ea572977b4f504-01",
+        "ruta":"/be"
+    },
+    {
+        "id":"19",
+        "idioma":"Griego, Antiguo "
+    },
+    {    
+        "id":"20",
+        "version":"Brenton Septuaginta griega",
+        "bibleId":"c114c33098c4fef1-01",
+        "ruta":"/ca"
+    },
+    {    
+        "id":"21",
+        "version":"Griego Textus Receptus",
+        "bibleId":"3aefb10641485092-01",
+        "ruta":"/cb"
+    },
+    {    
+        "id":"22",
+        "version":"Roca Sólida Nuevo Testamento Griego",
+        "bibleId":"47f396bad37936f0-01",
+        "ruta":"/cc"
+    },
+    {    
+        "id":"23",
+        "version":"Nuevo Testamento Griego Crítico de Texto ",
+        "bibleId":"7644de2e4c5188e5-01",
+        "ruta":"/cd"
+    },
+    {    
+        "id":"24",
+        "version":"El Nuevo Testamento griego según la familia 35",
+        "bibleId":"5e29945cf530b0f6-01",
+        "ruta":"/ce"
+    },
+    {
+        "id":"25",
+        "idioma":"Romanos, Vlax"
+    },
+    {    
+        "id":"26",
+        "version":"Biblia en romaní de Chergash",
+        "bibleId":"65b675fa952d5d27-01",
+        "ruta":"/da"
+    },
+    {    
+        "id":"27",
+        "version":"Biblia romaní de Lovary",
+        "bibleId":"f6c04124034a114e-01",
+        "ruta":"/db"
+    },
+    {    
+        "id":"28",
+        "version":"Biblia Servi Romani",
+        "bibleId":"5611c12a3dafb263-01",
+        "ruta":"/dc"
+    },
+    {    
+        "id":"29",
+        "version":"La Palabra de Dios en Gurbet",
+        "bibleId":"494329fa9b8f2892-01",
+        "ruta":"/dd"
+    },
+    {    
+        "id":"30",
+        "version":"Traducción de Vlasit",
+        "bibleId":"4e046bd6977f26de-01",
+        "ruta":"/de"
+    },
+    {
+        "id":"31",
+        "idioma":"Chino, Mandarín"
+    },
+    {    
+        "id":"32",
+        "version":"Biblia Abierta Biblia® Contemporánea China Simplificada 2022",
+        "bibleId":"7ea794434e9ea7ee-01",
+        "ruta":"/ea"
+    },
+    {    
+        "id":"33",
+        "version":"Biblia® Abierta China Contemporánea Tradicional 2023",
+        "bibleId":"a6e06d2c5b90ad89-01",
+        "ruta":"/eb"
+    },
+    {    
+        "id":"34",
+        "version":"免费的易读圣经 Biblia gratuita y fácil de leer",
+        "bibleId":" 04fb2bec0d582d1f-01",
+        "ruta":"/ec"
+    },
+    {
+        "id":"35",
+        "idioma":"Alemán, Estándar"
+    },
+    {    
+        "id":"36",
+        "version":"Traducción de Elberfelder (versión de bibelkommentare.de)",
+        "bibleId":"f492a38d0e52db0f-01",
+        "ruta":"/fa"
+    },
+    {    
+        "id":"37",
+        "version":"Biblia alemana de Lutero de 1912 con los números de Strong",
+        "bibleId":"926aa5efbc5e04e2-01",
+        "ruta":"/fb"
+    },
+    {    
+        "id":"38",
+        "version":"Biblia Elberfelder alemana sin revisar",
+        "bibleId":"95410db44ef800c1-01",
+        "ruta":"/fc"
+    },
+    {
+        "id":"39",
+        "idioma":"Portugués"
+    },
+    {    
+        "id":"40",
+        "version":"Biblia gratis para todos",
+        "bibleId":"d63894c8d9a7a503-01",
+        "ruta":"/ga"
+    },
+    {    
+        "id":"41",
+        "version":"Traducción para traductores en portugués brasileño ",
+        "bibleId":"90799bb5b996fddc-01",
+        "ruta":"/gd"
+    },
+    {
+        "id":"42",
+        "idioma":"Haitiano"
+    },
+    {    
+        "id":"43",
+        "version":"Biblia haitiana",
+        "bibleId":"496cafdffc23197b-01",
+        "ruta":"/ha"
+    },
+    {
+        "id":"44",
+        "idioma":"Hebreo, Antiguo"
+    },
+    {    
+        "id":"45",
+        "version":"La Biblia Hebrea, Códice de Leningrado de Westminster",
+        "bibleId":"0b262f1ed7f084a6-01",
+        "ruta":"/ia"
+    },
+    {
+        "id":"46",
+        "idioma":"Hebreo, Moderno"
+    },
+    {    
+        "id":"47",
+        "version":"Biblica® Hebreo Abierto Nuevo Testamento Viviente 2009",
+        "bibleId":"a8a97eebae3c98e4-01",
+        "ruta":"/ib"
+    },
+    {
+        "id":"48",
+        "idioma":"Hebreo"
+    },
+    {    
+        "id":"49",
+        "version":"Códice de Westminster Leningrado ",
+        "bibleId":"2c500771ea16da93-01",
+        "ruta":"/ic"
+    },
+    {
+        "id":"50",
+        "idioma":"Árabe, Estándar"
+    },
+    {    
+        "id":"51",
+        "version":"Biblica Abre Nueva® Versión Árabe 2012",
+        "bibleId":"b17e246951402e50-01",
+        "ruta":"/ja"
+    },
+    {
+        "id":"52",
+        "idioma":"Italiano"
+    },
+    {    
+        "id":"53",
+        "version":"Biblia de Diodates 1885",
+        "bibleId":" 41f25b97f468e10b-01",
+        "ruta":"/ka"
+    }
+
+
+]
